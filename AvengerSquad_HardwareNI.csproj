@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Resources\images\" />
+    <None Include="wwwroot\Resources\images\01.png" />
+    <None Include="wwwroot\Resources\images\02.jpg" />
+    <None Include="wwwroot\Resources\images\profile.jpg" />
   </ItemGroup>
 
 </Project>
